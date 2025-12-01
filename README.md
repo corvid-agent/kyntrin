@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kyn 👋
 
-<!--
-**Kyntrin/kyntrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code - taking it one step at a time and enjoying the journey.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Swift** - iOS development and Swift packages
+- **Python** - Backend and automation  
+- **Algorand** - Blockchain development
+
+I work with a small team at [Corvid Labs](https://github.com/Corvid-Labs) 🦅, managing our Discord community. Learning to code helps me understand what we're building and support both developers and community members better.
+
+## 🌍 Languages
+
+🇧🇷 Portuguese (native) | 🇺🇸 English
+
+---
+
+*Learning in public, one commit at a time* 🚀
