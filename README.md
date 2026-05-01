@@ -2,17 +2,17 @@
 
 I'm a developer at [Corvid Labs](https://github.com/CorvidLabs) 🦅
 
-Right now I'm all in on **Kotlin** and **KMP** (Kotlin Multiplatform), and starting to get into **Algorand** blockchain stuff too.
+Right now I'm all in on **Kotlin** and **KMP** (Kotlin Multiplatform). I also messed around with the Algorand Python SDK once, so that's out there too.
 
 ## What I'm Building
 
 **podo-shared** - Shared KMP module for a weather app
 
-**podo** (Android) - Weather app, coming soon
+**podo** (Android) - Weather app
 
 **corvid-agent** - Decentralized AI agent platform (contributor)
 
-**Fledge plugins** - Kotlin plugins (coming soon)
+**Fledge plugins** - Kotlin plugins
 
 ## 💬
 
@@ -20,7 +20,9 @@ Right now I'm all in on **Kotlin** and **KMP** (Kotlin Multiplatform), and start
 
 ## Beyond Code
 
-🎮 Overwatch player
+🎮 Overwatch, MMORPGs, and whatever else looks fun
+
+📺 Anime fan
 
 🇧🇷 Portuguese (native) | 🇺🇸 English
 
