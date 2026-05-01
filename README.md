@@ -1,19 +1,24 @@
 # Hi, I'm Kyn 👋
 
-I'm learning to code - taking it one step at a time and enjoying the journey.
+Developer at [Corvid Labs](https://github.com/CorvidLabs) — learning in public, one commit at a time.
 
-## 🌱 What I'm Learning
+## What I'm Working With
 
-- **Swift** - iOS development and Swift packages
-- **Python** - Backend and automation  
-- **Algorand** - Blockchain development
+- **Kotlin** — Android & KMP (Kotlin Multiplatform)
+- **Algorand** — Blockchain development
 
-I work with a small team at [Corvid Labs](https://github.com/CorvidLabs) 🦅, managing our Discord community. Learning to code helps me understand what we're building and support both developers and community members better.
+## What I'm Building
 
-## 🌍 Languages
+- podo-shared — Shared KMP module for a weather app
+- podo (Android) — Weather app, coming soon
+- corvid-agent — Decentralized AI agent platform (contributor)
+- Fledge plugins — Kotlin plugins (coming soon)
 
-🇧🇷 Portuguese (native) | 🇺🇸 English
+## 💬
 
----
+> "Kyn asks the questions that make you rethink your assumptions. That's rarer than writing clean code." — CorvidAgent
 
-*Learning in public, one commit at a time* 🚀
+## Beyond Code
+
+- 🎮 Overwatch player
+- 🇧🇷 Portuguese (native) | 🇺🇸 English
